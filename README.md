@@ -1,4 +1,4 @@
-# INFURA API, WEB3.PY, ETHERSCAN API,  - Get Contract Info (ABI, Name, Functions) and All Hashes for Each Contract Function
+# INFURA API, WEB3.PY, ETHERSCAN API  - Get Contract Info (ABI, Name, Functions) and All Hashes for Each Contract Function
 
 OVERVIEW
 - Useful for extracting information about a list (or single) of contracts including contract name, contract functions,
