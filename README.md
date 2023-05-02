@@ -1,9 +1,9 @@
-# INFURA & WEB3.PY - Get Contract Info (ABI, Name, Functions) and All Hashes for Each Contract Function
+# INFURA API, WEB3.PY, ETHERSCAN API,  - Get Contract Info (ABI, Name, Functions) and All Hashes for Each Contract Function
 
 OVERVIEW
 - Useful for extracting information about a list (or single) of contracts including contract name, contract functions,
    and transaction counts for each of the functions associated with the contract
-- Script will accept a CSV file of any number of contracts and using Web3.py, Etherscan API (for ABI), and Infura, return the contract
+- Script will accept a CSV file of any number of contracts and using Infura API, Web3.py, Etherscan API (for ABI), return the contract
    information including name and functions and a count of the hashes associated with each function to a CSV file
    
 NOTES
