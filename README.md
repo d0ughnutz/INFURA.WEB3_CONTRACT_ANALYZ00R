@@ -6,6 +6,6 @@ OVERVIEW
   information to a new CSV export file
    
 NOTES
-1. API keys are required for both Etherscan and Infura APIs
-2. Run times may be long for contracts with many transactions (in the millions) as the Infura API is called for each
-   contract function which limits the results to a block range of ~100,000 before errors
+- API keys are required for both Etherscan and Infura APIs
+- Run times may be long for contracts with many transactions (in the millions) as the Infura API is called for each
+  contract function which limits the results to a block range of ~100,000 before errors
